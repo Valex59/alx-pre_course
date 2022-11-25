@@ -1,1 +1,1 @@
-My second readme
+Explore Git
